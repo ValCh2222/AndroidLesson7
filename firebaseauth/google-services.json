@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102278354978",
+    "project_id": "ru-mirea-chubukina-practice7",
+    "storage_bucket": "ru-mirea-chubukina-practice7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102278354978:android:9f030c8019ae982701527b",
+        "android_client_info": {
+          "package_name": "com.mirea.chubuka_v_a.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102278354978-d6ktpap87v2vrl46qkivf39mumhrvu5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfnTwhrON-0IjrKTVQv0G0Qn5cgkXmAiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102278354978-d6ktpap87v2vrl46qkivf39mumhrvu5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
